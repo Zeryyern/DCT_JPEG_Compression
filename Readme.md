@@ -38,7 +38,7 @@ The complete project report is available below.
 
 | Document | Description |
 |----------|-------------|
-| 📘 [Project Report (PDF)](/home/zeryyern/Downloads/Program_Projects/Teknik Multimedia/documentation/JPEG_DCT_Report.pdf) | Complete implementation report, methodology, results, and discussion. |
+| 📘 [Project Report (PDF)](documentation/JPEG_DCT_Report.pdf) | Complete implementation report, methodology, results, and discussion. |
 ---
 
 # ✨ Features
@@ -64,7 +64,6 @@ JPEG-DCT-Compression/
 │
 ├── documentation/
 │   └── JPEG_DCT_Report.pdf
-│
 ├── datasets/
 ├── output/
 ├── screenshots/
@@ -77,7 +76,10 @@ JPEG-DCT-Compression/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+```
+
 ---
+
 
 
 # 📁 Repository Contents
